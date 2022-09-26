@@ -1,3 +1,3 @@
-# practice
+# My practice repo
 
 Git practice
